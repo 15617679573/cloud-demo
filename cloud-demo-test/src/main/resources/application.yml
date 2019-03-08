@@ -1,0 +1,9 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: cloud-demo-test
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8081/eureka/
