@@ -8,3 +8,7 @@
 
 1. cloud-demo-goods-api对外提供服务，需要调用的引入改接口jar
 2. cloud-demo-goods-service  服务实现
+
+# fork by cjt
+
+1. test
